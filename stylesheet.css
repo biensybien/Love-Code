@@ -1,0 +1,31 @@
+div {
+	height: 150px;
+	width: 160px;
+	font-size: 120px;
+	border: 10px solid black;
+	border-radius: 19px;
+	display: inline;
+	text-align: center;
+	}
+body {
+	margin: 300px 50px 50px 300px; 
+}
+#one {
+	color: #FF0000;
+	border-color: #308014;
+}
+
+#two {
+	color: #0000FF;
+	border-color: #FFD700;
+}
+
+#three {
+	color: #FFD700;
+	border-color: #0000FF;
+}
+
+#four {
+	color: #308014;
+	border-color: #FF0000;
+}
